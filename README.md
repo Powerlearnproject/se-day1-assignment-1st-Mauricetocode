@@ -279,4 +279,4 @@ This improved prompt is:
 Clear: It specifies what type of writing is required ("short story").
 Specific: It provides a specific setting ("year 2050") and protagonist ("time traveler").
 Concise: It limits the length to 500 words and defines the challenge the protagonist faces ("struggles to adjust").
-This clarity and specificity make the prompt more effective because it guides the writer with a well-defined task.
+This clarity and specificity make the prompt more effective because it guides the writer with a well-defined task .
